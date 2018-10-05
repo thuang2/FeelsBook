@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">thuang2-FeelsBook</string>
+    <string name="love">love</string>
+    <string name="joy">joy</string>
+    <string name="suprise">suprise</string>
+    <string name="anger">anger</string>
+    <string name="sadness">sadness</string>
+    <string name="fear">fear</string>
+    <string name="view_history">view history</string>
+    <string name="comments_here">Comments here...</string>
+    <string name="feelsbook">Feelsbook</string>
+    <string name="button">Button</string>
+    <string name="back">Back</string>
+    <string name="counter">Counter</string>
+    <string name="history">History</string>
+</resources>
